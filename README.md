@@ -40,7 +40,7 @@ weighted avg       0.82      0.82      0.82       179
   ```
 
 ## Requirements
-- Python 3.x  
+- Python 3
 - pandas, numpy, sklearn
 
 ## Insights
